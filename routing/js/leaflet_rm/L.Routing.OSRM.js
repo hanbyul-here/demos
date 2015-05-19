@@ -29,7 +29,7 @@
 /*Uncomment the following options to use valhalla services.*/
  
 		options: {
-			serviceUrl: 'http://localhost:8002',
+			serviceUrl: 'http://valhalla.api.dev.mapzen.com',
 			geometryPrecision: 6
 		},
 
